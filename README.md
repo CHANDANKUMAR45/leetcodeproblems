@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
@@ -24,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Prefix Sum
 |  |
@@ -37,4 +39,12 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
