@@ -7,6 +7,7 @@
 | ------- |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 ## String
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 ## Counting
 |  |
 | ------- |
