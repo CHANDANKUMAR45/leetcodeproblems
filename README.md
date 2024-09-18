@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
@@ -28,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -52,5 +54,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
