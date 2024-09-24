@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0200-number-of-islands) |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
@@ -81,6 +82,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -88,4 +90,16 @@
 | [0386-lexicographical-numbers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2755-extra-characters-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
