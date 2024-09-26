@@ -8,6 +8,7 @@
 | [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0200-number-of-islands) |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0729-my-calendar-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 | [2176-parallel-courses-iii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2176-parallel-courses-iii) |
@@ -120,4 +121,20 @@
 |  |
 | ------- |
 | [2176-parallel-courses-iii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2176-parallel-courses-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
