@@ -12,6 +12,7 @@
 | [0731-my-calendar-ii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0859-design-circular-deque) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 | [2176-parallel-courses-iii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2176-parallel-courses-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -137,6 +138,7 @@
 | [0729-my-calendar-i](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
