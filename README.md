@@ -12,6 +12,7 @@
 | [0731-my-calendar-ii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0859-design-circular-deque) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1256-rank-transform-of-an-array](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
@@ -35,6 +36,7 @@
 | [0432-all-oone-data-structure](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1256-rank-transform-of-an-array](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
@@ -78,6 +80,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 ## Greedy
 |  |
 | ------- |
