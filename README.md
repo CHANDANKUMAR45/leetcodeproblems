@@ -20,6 +20,7 @@
 | [2176-parallel-courses-iii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2176-parallel-courses-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1694-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -84,6 +86,7 @@
 | [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1497-design-a-stack-with-increment-operation) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
