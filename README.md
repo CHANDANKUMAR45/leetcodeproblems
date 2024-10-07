@@ -56,6 +56,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
@@ -178,8 +179,13 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
