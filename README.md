@@ -115,6 +115,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0386-lexicographical-numbers) |
+| [1300-critical-connections-in-a-network](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1300-critical-connections-in-a-network) |
 ## Trie
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1300-critical-connections-in-a-network) |
 | [2176-parallel-courses-iii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
 |  |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
