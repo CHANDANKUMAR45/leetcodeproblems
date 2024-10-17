@@ -91,6 +91,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0670-maximum-swap) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
