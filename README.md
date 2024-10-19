@@ -12,6 +12,7 @@
 | [0729-my-calendar-i](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0859-design-circular-deque) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0731-my-calendar-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/CHANDANKUMAR45/leetcodeproblems/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Design
 |  |
 | ------- |
